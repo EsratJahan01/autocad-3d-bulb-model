@@ -67,4 +67,4 @@ Instructor: Puja Chakraborty
 
 ## Program Output
 
-![Program Output](/imeges)
+![Program Output](images)
