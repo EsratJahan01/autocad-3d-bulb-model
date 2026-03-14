@@ -64,3 +64,7 @@ East West University
 ## Course Information
 Course: CSE200 – Computer Aided Engineering Drawing  
 Instructor: Puja Chakraborty
+
+## Program Output
+
+![Program Output](images/program_output.png)
