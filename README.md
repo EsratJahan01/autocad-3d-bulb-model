@@ -67,4 +67,4 @@ Instructor: Puja Chakraborty
 
 ## Program Output
 
-![Program Output](images/screenshort 26-03-14 062238.png)
+![Program Output](screenshots/program_output.png)
